@@ -1,5 +1,5 @@
 // ternary operator usage example, for CSS application, use && for if else statements
-export function AgeComparator() {
+export const AgeComparator = () => {
     const age = 15;
     const isGreen = false;
   
