@@ -8,3 +8,4 @@ Episode 3 Folder contains code for understanding Lists & iterating the list usin
 Episode 4 Folder contains code for understanding useState hooks.
 Episode 5 Folder contains code for understanding the updation, deletion and addition of  tasks to the todoList using useState hooks. Updation is performed on a list using map to iterate each element. Deletion is done by using filter operation on list.
 Episode 6 Folder contains code for understanding the component lifecycle - mounting, updating and unmounting & Useeffect hook.
+Episode 7 Folder contains code for understanding the fetcching from API requests
