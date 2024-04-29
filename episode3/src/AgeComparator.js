@@ -1,4 +1,4 @@
-// ternary operator usage example, for CSS application, use && for if else statements
+// ternary operator usage example, for CSS application, use && for if statements
 export const AgeComparator = () => {
     const age = 15;
     const isGreen = false;
